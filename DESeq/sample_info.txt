@@ -1,0 +1,7 @@
+sample	condition	strain
+BY4742_R1	wild_type	BY4742
+BY4742_R2	wild_type	BY4742
+BY4742_R3	wild_type	BY4742
+SY14_R1	engineered	SY14
+SY14_R2	engineered	SY14
+SY14_R3	engineered	SY14
