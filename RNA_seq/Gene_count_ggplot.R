@@ -39,3 +39,10 @@ ggplot(data_long, aes(x = Category, y = No_of_genes, fill = Condition)) +
   colour = "black"
 )
 
+ggsave(
+  "Gene_count_ggplot.png",
+  width = 6,
+  height = 4,
+  units = "in",
+  dpi = 300
+)
